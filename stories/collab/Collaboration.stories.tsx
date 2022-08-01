@@ -96,7 +96,7 @@ Default.args = {
 		iso: {
 			moreMenu: false,
 			toolbar: {
-				inspector: true,
+				inspector: true, inserter:  false,
 			},
 		},
 	},
